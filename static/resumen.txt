@@ -1,0 +1,10 @@
+Conexión con una api usando JavaScript
+
+Pagina de posts. Los posts se obtienen de:
+https://jsonplaceholder.typicode.com/posts
+
+Y los usuarios de:
+https://jsonplaceholder.typicode.com/users
+
+Tecnicas:
+JS, Fetch-api, con async await, try, catch.
